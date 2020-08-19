@@ -1,6 +1,6 @@
 # Classification_Example_Tensorflow2.0
 
-### script_model
+### ./script_model
 * VggNet
 * ResNet
 * ResNext
