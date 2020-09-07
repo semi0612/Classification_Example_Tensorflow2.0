@@ -19,8 +19,6 @@ EfficientNet (efficientent b0 ~ b7)
 MobileNet (mobilent v1)
 Attention
 ```
-you can choice 
-
 
 
 You can change the corresponding training parameters in the main.py.
